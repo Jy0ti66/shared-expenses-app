@@ -1,1 +1,3 @@
-# shared-expenses-app
+# Shared Expenses App
+
+Spreetail Internship Assignment
